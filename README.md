@@ -1,0 +1,2 @@
+# TIC-token
+TIC - Thingschain
